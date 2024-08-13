@@ -116,3 +116,4 @@ DELETE /logs/1
 3. http://localhost:3000/logs/3
 4. http://localhost:3000/logs?\_sort=status
 5. http://localhost:3000/products?\_sort=-stock
+6. http://localhost:3000/orders/4
