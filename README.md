@@ -115,3 +115,4 @@ DELETE /logs/1
 2. http://localhost:3000/logs?\_page=2&\_per_page=2
 3. http://localhost:3000/logs/3
 4. http://localhost:3000/logs?\_sort=status
+5. http://localhost:3000/products?\_sort=-stock
